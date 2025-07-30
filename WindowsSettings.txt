@@ -1,0 +1,9 @@
+Enabling your proxy server for real testing (Windows):
+
+Windows settings
+Network & Internet
+Proxy
+Manual proxy setup
+Make sure Use a Proxy Server is set to On
+Configure your host and port to whatever localhost you're using
+Fully close your browser and reopen for changes to take effect
